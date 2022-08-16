@@ -1,0 +1,46 @@
+body{
+  background-image: linear-gradient(lightblue,pink,lightyellow) ; 
+}
+.header{
+    background-color: #000000;
+    height: 15vh;
+    
+}
+.header ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  column-gap: 300px; 
+  list-style: none; 
+
+}
+.navLink{
+    text-decoration: none;
+    font-size: 30px;
+    color:blueviolet;
+}
+table {
+    border: 1px solid;
+    width: 70%;
+    margin:30px auto;
+    color: blue;
+  }
+  
+  th {
+    border: 1px solid;
+    height: 70px;
+    width: 30px;
+    
+  }
+  td{
+    border: 1px solid;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+  }
+  h1{
+      text-align: center;
+      color: black;
+  }
+
+  
